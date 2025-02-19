@@ -19,7 +19,7 @@ website: nope
 darkmode: false
 
 # Social links
-twitter_username: none
+//twitter_username: none
 github_username: womss
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
